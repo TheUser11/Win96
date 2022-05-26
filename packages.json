@@ -16,6 +16,6 @@
             "32x32": "$REPO_PATH$/images/icon32.png",
             "16x16": "$REPO_PATH$/images/icon16.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/s/smoothie"
+        "packageRoot": "$REPO_PATH$/dist/s/translationfun"
     }
 ]
