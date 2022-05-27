@@ -13,9 +13,9 @@
         "downloadSize": 3148,
         "depends": [],
         "iconFiles": {
-            "32x32": "$REPO_PATH$/images/icon32.png",
-            "16x16": "$REPO_PATH$/images/icon16.png"
+            "32x32": "https://raw.githubusercontent.com/TheUser11/Win96/main/images/icon32.PNG",
+            "16x16": "https://raw.githubusercontent.com/TheUser11/Win96/main/images/icon16.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/s/install.js"
+        "packageRoot": "https://raw.githubusercontent.com/TheUser11/Win96/main/dist/s/content%401.1.zip"
     }
 ]
