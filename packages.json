@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Translation Fun | Beta",
+        "friendlyName": "Translation Fun",
+        "description": "Add a drop of entertainment, just by typing a few sentences!",
+        "author": "The User",
+        "category": "other",
+        "version": 0.1,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 999999,
+        "installedSize": 9336,
+        "downloadSize": 3148,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "https://raw.githubusercontent.com/TheUser11/Win96/main/images/icon32.PNG",
+            "16x16": "https://raw.githubusercontent.com/TheUser11/Win96/main/images/icon16.png"
+        },
+        "packageRoot": "https://raw.githubusercontent.com/TheUser11/Win96/main/dist/s/content%401.1.zip"
+    }
+]
